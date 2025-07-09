@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ivanamador-vercel-ai-docs-mcp-badge.png)](https://mseep.ai/app/ivanamador-vercel-ai-docs-mcp)
+
 # Vercel AI SDK Documentation MCP Agent
 
 A Model Context Protocol (MCP) server that provides AI-powered search and querying capabilities for the Vercel AI SDK documentation. This project enables developers to ask questions about the Vercel AI SDK and receive accurate, contextualized responses based on the official documentation.
